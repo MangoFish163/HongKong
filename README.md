@@ -6,3 +6,5 @@ https://github.com/MangoFish163/HongKong.git
 INIT
 
 git config --global user.name "Mango Fish"
+
+hello HongKong
